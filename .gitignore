@@ -6,5 +6,10 @@
 *.user
 *.suo
 *.force
-/ShooterDownloader/obj/Debug
-/NCharDet/obj/Debug
+/NCharDet/obj
+/NCharDet/bin
+/ShooterDownloader/bin
+/ShooterDownloader/obj
+/ShooterExt/Debug
+/ShooterExt/x64
+/bin
